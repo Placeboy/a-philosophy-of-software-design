@@ -26,4 +26,4 @@
 
 我建议你对本书中的建议持谨慎态度。总体目标是减少复杂性；这比你在这里读到的任何具体的原则或想法都要重要。如果你尝试了本书中的一个想法，发现它实际上并没有减少复杂性，那么不要觉得有义务继续使用它（但是，一定要让我知道你的经验；我希望得到反馈，了解哪些方法有效，哪些方法无效）。
 
-许多人已经提出了批评或建议，提高了该书的质量。以下人士对本书的各种草稿提出了有益的意见：Jeff Dean, Sanjay Ghemawat, John Hartman, Brian Kernighan, James Koppel, Amy Ousterhout, Kay Ousterhout, Rob Pike, Partha Ranganathan, Keith Schwartz, 和Alex Snaps。Christos Kozyrakis建议用 "深 "和 "浅 "来形容类和接口，以取代以前的 "厚 "和 "薄"，后者有些含糊不清。我很感谢CS190的学生；阅读他们的代码并与他们讨论的过程帮助我理清了关于设计的思路。
+许多人已经提出了批评或建议，提高了该书的质量。以下人士对本书的各种草稿提出了有益的意见：Jeff Dean, Sanjay Ghemawat, John Hartman, Brian Kernighan, James Koppel, Amy Ousterhout, Kay Ousterhout, Rob Pike, Partha Ranganathan, Keith Schwartz, 和Alex Snaps。Christos Kozyrakis建议用“深”和“浅”来形容类和接口，以取代以前的“厚”和“薄”，后者有些含糊不清。我很感谢CS190的学生；阅读他们的代码并与他们讨论的过程帮助我理清了关于设计的思路。
