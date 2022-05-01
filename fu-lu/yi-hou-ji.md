@@ -1,3 +1,3 @@
 # 译后记
 
-To be finished.
+To be done.
