@@ -19,3 +19,4 @@
 ## #⃣ 附录
 
 * [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
+* [译者的话](fu-lu/yi-zhe-de-hua.md)
