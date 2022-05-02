@@ -16,11 +16,6 @@
 * [2.4 复杂性是逐步增加的](di-er-zhang-fu-za-xing-de-ben-zhi/2.4-fu-za-xing-shi-zhu-bu-zeng-jia-de.md)
 * [2.5 结论](di-er-zhang-fu-za-xing-de-ben-zhi/2.5-jie-lun.md)
 
-## #⃣ 附录
-
-* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
-* [译后记](fu-lu/yi-hou-ji.md)
-
 ## 3⃣ 第三章 让代码工作起来是不够的
 
 * [让代码工作起来是不够的](di-san-zhang/jin-you-gong-zuo-dai-ma-shi-bu-gou-de.md)
@@ -29,3 +24,8 @@
 * [3.3 投资多少？](di-san-zhang/3.3-tou-zi-duo-shao.md)
 * [3.4 创业公司和投资](di-san-zhang-rang-dai-ma-gong-zuo-qi-lai-shi-bu-gou-de/3.4-chuang-ye-gong-si-he-tou-zi.md)
 * [3.5 小结](di-san-zhang/3.5-xiao-jie.md)
+
+## #⃣ 附录
+
+* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
+* [译后记](fu-lu/yi-hou-ji.md)
