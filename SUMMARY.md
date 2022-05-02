@@ -23,7 +23,7 @@
 
 ## 3⃣ 第三章
 
-* [让代码工作起来是不够的](di-san-zhang/rang-dai-ma-gong-zuo-qi-lai-shi-bu-gou-de.md)
+* [让代码工作起来是不够的](di-san-zhang/jin-you-gong-zuo-dai-ma-shi-bu-gou-de.md)
 * [3.1 战术性编程](di-san-zhang/3.1-zhan-shu-xing-bian-cheng.md)
 * [3.2 战略性编程](di-san-zhang/3.2-zhan-lve-xing-bian-cheng.md)
 * [3.3 投资多少？](di-san-zhang/3.3-tou-zi-duo-shao.md)
