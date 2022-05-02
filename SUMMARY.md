@@ -23,9 +23,9 @@
 
 ## 3⃣ 第三章 让代码工作起来是不够的
 
-* [让代码工作起来是不够的](di-san-zhang-rang-dai-ma-gong-zuo-qi-lai-shi-bu-gou-de/rang-dai-ma-gong-zuo-qi-lai-shi-bu-gou-de.md)
-* [3.1 战术性编程](di-san-zhang-rang-dai-ma-gong-zuo-qi-lai-shi-bu-gou-de/3.1-zhan-shu-xing-bian-cheng.md)
-* [3.2 战略性编程](di-san-zhang-rang-dai-ma-gong-zuo-qi-lai-shi-bu-gou-de/3.2-zhan-lve-xing-bian-cheng.md)
-* [3.3 投资多少？](di-san-zhang-rang-dai-ma-gong-zuo-qi-lai-shi-bu-gou-de/3.3-tou-zi-duo-shao.md)
-* [3.4 初创企业和投资](di-san-zhang-rang-dai-ma-gong-zuo-qi-lai-shi-bu-gou-de/3.4-chu-chuang-qi-ye-he-tou-zi.md)
-* [3.5 小结](di-san-zhang-rang-dai-ma-gong-zuo-qi-lai-shi-bu-gou-de/3.5-xiao-jie.md)
+* [让代码工作起来是不够的](di-san-zhang/jin-you-gong-zuo-dai-ma-shi-bu-gou-de.md)
+* [3.1 战术性编程](di-san-zhang/3.1-zhan-shu-xing-bian-cheng.md)
+* [3.2 战略性编程](di-san-zhang/3.2-zhan-lve-xing-bian-cheng.md)
+* [3.3 投资多少？](di-san-zhang/3.3-tou-zi-duo-shao.md)
+* [3.4 创业公司和投资](di-san-zhang-rang-dai-ma-gong-zuo-qi-lai-shi-bu-gou-de/3.4-chuang-ye-gong-si-he-tou-zi.md)
+* [3.5 小结](di-san-zhang/3.5-xiao-jie.md)
