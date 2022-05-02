@@ -20,3 +20,12 @@
 
 * [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
 * [译后记](fu-lu/yi-hou-ji.md)
+
+## 3⃣ 第三章
+
+* [仅有工作代码是不够的](di-san-zhang/jin-you-gong-zuo-dai-ma-shi-bu-gou-de.md)
+* [3.1 战术性编程](di-san-zhang/3.1-zhan-shu-xing-bian-cheng.md)
+* [3.2 战略性编程](di-san-zhang/3.2-zhan-lve-xing-bian-cheng.md)
+* [3.3 投资多少？](di-san-zhang/3.3-tou-zi-duo-shao.md)
+* [3.4 初创企业和投资](di-san-zhang/3.4-chu-chuang-qi-ye-he-tou-zi.md)
+* [3.5 小结](di-san-zhang/3.5-xiao-jie.md)
