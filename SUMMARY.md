@@ -3,8 +3,8 @@
 ## 0⃣ 序章
 
 * [软件设计哲学（中文版）](README.md)
-* [译者序](xu-zhang/yi-zhe-xu.md)
-* [前言](xu-zhang/qian-yan.md)
+* [译者序](fu-lu/yi-hou-ji.md)
+* [前言](<README (1).md>)
 
 ## 1⃣ 第一章 介绍
 
