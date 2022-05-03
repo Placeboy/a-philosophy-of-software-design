@@ -1,6 +1,10 @@
 # Table of contents
 
-* [前言](README.md)
+## 0⃣ 序章
+
+* [软件设计哲学（中文版）](README.md)
+* [译者序](xu-zhang/yi-zhe-xu.md)
+* [前言](xu-zhang/qian-yan.md)
 
 ## 1⃣ 第一章 介绍
 
@@ -25,11 +29,6 @@
 * [3.4 创业公司和投资](di-san-zhang-rang-dai-ma-gong-zuo-qi-lai-shi-bu-gou-de/3.4-chuang-ye-gong-si-he-tou-zi.md)
 * [3.5 小结](di-san-zhang/3.5-xiao-jie.md)
 
-## #⃣ 附录
-
-* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
-* [译后记](fu-lu/yi-hou-ji.md)
-
 ## 4⃣ 第四章 模块应该是深的
 
 * [模块应该是深的](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/mo-kuai-ying-gai-shi-shen-de.md)
@@ -41,3 +40,7 @@
 * [4.6 阶级炎](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.6-jie-ji-yan.md)
 * [4.7 例子：Java和Unix I/O](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.7-li-zi-java-he-unix-io.md)
 * [4.8 小结](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.8-xiao-jie.md)
+
+## #⃣ 附录
+
+* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
