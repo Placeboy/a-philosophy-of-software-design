@@ -29,3 +29,12 @@
 
 * [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
 * [译后记](fu-lu/yi-hou-ji.md)
+
+## 4⃣ 第四章 模块应该是深的
+
+* [模块应该是深的](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/mo-kuai-ying-gai-shi-shen-de.md)
+* [4.1 模块化设计](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.1-mo-kuai-hua-she-ji.md)
+* [4.2 接口中有什么？](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.2-jie-kou-zhong-you-shi-mo.md)
+* [4.3 抽象](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.3-chou-xiang.md)
+* [4.4 深度模块](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.4-shen-du-mo-kuai.md)
+* [4.5 浅层模块](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.5-qian-ceng-mo-kuai.md)
