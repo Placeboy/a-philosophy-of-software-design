@@ -38,3 +38,6 @@
 * [4.3 抽象](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.3-chou-xiang.md)
 * [4.4 深度模块](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.4-shen-du-mo-kuai.md)
 * [4.5 浅层模块](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.5-qian-ceng-mo-kuai.md)
+* [4.6 阶级炎](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.6-jie-ji-yan.md)
+* [4.7 例子：Java和Unix I/O](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.7-li-zi-java-he-unix-io.md)
+* [4.8 小结](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.8-xiao-jie.md)
