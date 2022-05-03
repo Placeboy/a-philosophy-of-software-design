@@ -7,3 +7,5 @@
 ### 中文译者
 
 苏格 dortmund\_reus@163.com
+
+![](../.gitbook/assets/IMG\_0648.JPG)
