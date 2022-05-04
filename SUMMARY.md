@@ -50,7 +50,7 @@
 * [信息隐藏（及泄露）](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/xin-xi-yin-cang-ji-xie-lou.md)
 * [5.1 信息隐藏](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.1-xin-xi-yin-cang.md)
 * [5.2 信息泄露](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.2-xin-xi-xie-lou.md)
-* [5.3 时间分解](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.3-shi-jian-fen-jie.md)
+* [5.3 时间分解](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.3.md)
 * [5.4 例子：HTTP服务器](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.4-li-zi-http-fu-wu-qi.md)
 * [5.5 过多的类](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.5-guo-duo-de-lei.md)
 * [5.6 例子：HTTP参数处理](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.6-li-zi-http-can-shu-chu-li.md)
