@@ -44,3 +44,10 @@
 ## #⃣ 附录
 
 * [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
+
+## 第五章 信息隐藏（及泄露）
+
+* [5.1 信息隐藏](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.1-xin-xi-yin-cang.md)
+* [5.2 信息泄露](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.2-xin-xi-xie-lou.md)
+* [5.3](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.3.md)
+* [Page 2](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/page-2.md)
