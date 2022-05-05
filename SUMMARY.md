@@ -65,10 +65,6 @@
 * [6.5 要问自己的问题](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.5-yao-wen-zi-ji-de-wen-ti.md)
 * [6.6 小结](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.6-xiao-jie.md)
 
-## #⃣ 附录
-
-* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
-
 ## 7⃣ 第七章 不同的层，不同的抽象
 
 * [不同的层，不同的抽象](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/bu-tong-de-ceng-bu-tong-de-chou-xiang.md)
@@ -78,3 +74,7 @@
 * [7.4 接口与实现](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.4-jie-kou-yu-shi-xian.md)
 * [7.5 透支变量](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.5-tou-zhi-bian-liang.md)
 * [7.6 小结](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.6-xiao-jie.md)
+
+## #⃣ 附录
+
+* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
