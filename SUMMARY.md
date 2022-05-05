@@ -41,10 +41,6 @@
 * [4.7 例子：Java和Unix I/O](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.7-li-zi-java-he-unix-io.md)
 * [4.8 小结](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.8-xiao-jie.md)
 
-## #⃣ 附录
-
-* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
-
 ## 5⃣ 第五章 信息隐藏（及泄露）
 
 * [信息隐藏（及泄露）](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/xin-xi-yin-cang-ji-xie-lou.md)
@@ -58,3 +54,17 @@
 * [5.8 类中隐藏的信息](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.8-lei-zhong-yin-cang-de-xin-xi.md)
 * [5.9 走得太远](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.9-zou-de-tai-yuan.md)
 * [5.10 小结](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.10-xiao-jie.md)
+
+## #⃣ 附录
+
+* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
+
+## 6⃣ 第六章 通用模块更有深度
+
+* [通用模块更有深度](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/tong-yong-mo-kuai-geng-you-shen-du.md)
+* [6.1 使类具有一定的通用性](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.1-shi-lei-ju-you-yi-ding-de-tong-yong-xing.md)
+* [6.2 例子：为一个编辑器存储文本](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.2-li-zi-wei-yi-ge-bian-ji-qi-cun-chu-wen-ben.md)
+* [6.3 一个更通用的API](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.3-yi-ge-geng-tong-yong-de-api.md)
+* [6.4 通用性导致更好的信息隐藏](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.4-tong-yong-xing-dao-zhi-geng-hao-de-xin-xi-yin-cang.md)
+* [6.5 要问自己的问题](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.5-yao-wen-zi-ji-de-wen-ti.md)
+* [6.6 小结](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.6-xiao-jie.md)
