@@ -62,7 +62,7 @@
 ## 6⃣ 第六章 通用模块更有深度
 
 * [通用模块更有深度](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/tong-yong-mo-kuai-geng-you-shen-du.md)
-* [6.1 使类具有一定的通用性](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.1-shi-lei-ju-you-yi-ding-de-tong-yong-xing.md)
+* [6.1 使类具备一定的通用性](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.1-shi-lei-ju-bei-yi-ding-de-tong-yong-xing.md)
 * [6.2 例子：为一个编辑器存储文本](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.2-li-zi-wei-yi-ge-bian-ji-qi-cun-chu-wen-ben.md)
 * [6.3 一个更通用的API](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.3-yi-ge-geng-tong-yong-de-api.md)
 * [6.4 通用性导致更好的信息隐藏](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.4-tong-yong-xing-dao-zhi-geng-hao-de-xin-xi-yin-cang.md)
