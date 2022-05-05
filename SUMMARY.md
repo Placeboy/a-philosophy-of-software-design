@@ -55,10 +55,6 @@
 * [5.9 走得太远](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.9-zou-de-tai-yuan.md)
 * [5.10 小结](di-wu-zhang-xin-xi-yin-cang-ji-xie-lou/5.10-xiao-jie.md)
 
-## #⃣ 附录
-
-* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
-
 ## 6⃣ 第六章 通用模块更有深度
 
 * [通用模块更有深度](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/tong-yong-mo-kuai-geng-you-shen-du.md)
@@ -68,3 +64,7 @@
 * [6.4 通用性导致更好的信息隐藏](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.4-tong-yong-xing-dao-zhi-geng-hao-de-xin-xi-yin-cang.md)
 * [6.5 要问自己的问题](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.5-yao-wen-zi-ji-de-wen-ti.md)
 * [6.6 小结](di-liu-zhang-tong-yong-mo-kuai-geng-you-shen-du/6.6-xiao-jie.md)
+
+## #⃣ 附录
+
+* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
