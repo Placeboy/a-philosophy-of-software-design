@@ -72,7 +72,7 @@
 * [7.2 什么时候可以进行接口复制？](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.2-shi-mo-shi-hou-ke-yi-jin-hang-jie-kou-fu-zhi.md)
 * [7.3 装饰器](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.3-zhuang-shi-qi.md)
 * [7.4 接口与实现](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.4-jie-kou-yu-shi-xian.md)
-* [7.5 透支变量](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.5-tou-zhi-bian-liang.md)
+* [7.5 传递式变量](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.5-chuan-di-shi-bian-liang.md)
 * [7.6 小结](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.6-xiao-jie.md)
 
 ## #⃣ 附录
