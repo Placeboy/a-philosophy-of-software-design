@@ -83,10 +83,10 @@
 * [8.3 走得太远](xiang-xia-la-dong-fu-za-xing/8.3-zou-de-tai-yuan.md)
 * [8.4 小结](xiang-xia-la-dong-fu-za-xing/8.4-xiao-jie.md)
 
+## 9⃣ 在一起更好还是分开更好？ <a href="#ch9 Better Together Or Better Apart?" id="ch9 Better Together Or Better Apart?"></a>
+
+* [在一起更好还是分开更好？](<ch9 Better Together Or Better Apart?/Better Together Or Better Apart.md>)
+
 ## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
 
 * [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
-
-## 9⃣ 在一起更好还是分开更好？ <a href="#ch9 Better Together Or Better Apart?" id="ch9 Better Together Or Better Apart?"></a>
-
-* [Better Together Or Better Apart?](<ch9 Better Together Or Better Apart?/Better Together Or Better Apart.md>)
