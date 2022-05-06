@@ -68,7 +68,7 @@
 ## 7⃣ 第七章 不同的层，不同的抽象
 
 * [不同的层，不同的抽象](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/bu-tong-de-ceng-bu-tong-de-chou-xiang.md)
-* [7.1 穿透式方法](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.1-chuan-tou-shi-fang-fa.md)
+* [7.1 传递式方法](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.1-chuan-di-shi-fang-fa.md)
 * [7.2 什么时候可以进行接口复制？](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.2-shi-mo-shi-hou-ke-yi-jin-hang-jie-kou-fu-zhi.md)
 * [7.3 装饰器](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.3-zhuang-shi-qi.md)
 * [7.4 接口与实现](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.4-jie-kou-yu-shi-xian.md)
