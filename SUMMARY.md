@@ -75,13 +75,13 @@
 * [7.5 传递式变量](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.5-chuan-di-shi-bian-liang.md)
 * [7.6 小结](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.6-xiao-jie.md)
 
-## 8⃣ 向下拉动复杂性
+## 8⃣ 下拉复杂性 <a href="#Pull Complexity Downwards" id="Pull Complexity Downwards"></a>
 
-* [下拉复杂性](xiang-xia-la-dong-fu-za-xing/xia-la-fu-za-xing.md)
-* [8.1 例子：编辑器文本类](xiang-xia-la-dong-fu-za-xing/8.1-li-zi-bian-ji-qi-wen-ben-lei.md)
-* [8.2 例子：配置参数](xiang-xia-la-dong-fu-za-xing/8.2-li-zi-pei-zhi-can-shu.md)
-* [8.3 走得太远](xiang-xia-la-dong-fu-za-xing/8.3-zou-de-tai-yuan.md)
-* [8.4 小结](xiang-xia-la-dong-fu-za-xing/8.4-xiao-jie.md)
+* [下拉复杂性](<Pull Complexity Downwards/Pull Complexity Downwards.md>)
+* [8.1 例子：编辑器文本类](<Pull Complexity Downwards/8.1-li-zi-bian-ji-qi-wen-ben-lei.md>)
+* [8.2 例子：配置参数](<Pull Complexity Downwards/8.2-li-zi-pei-zhi-can-shu.md>)
+* [8.3 走得太远](<Pull Complexity Downwards/8.3-zou-de-tai-yuan.md>)
+* [8.4 小结](<Pull Complexity Downwards/8.4-xiao-jie.md>)
 
 ## #⃣ 附录
 
