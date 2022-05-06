@@ -75,14 +75,14 @@
 * [7.5 传递式变量](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.5-chuan-di-shi-bian-liang.md)
 * [7.6 小结](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.6-xiao-jie.md)
 
-## #⃣ 附录
-
-* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
-
 ## 8⃣ 向下拉动复杂性
 
 * [向下拉动复杂性](xiang-xia-la-dong-fu-za-xing/xiang-xia-la-dong-fu-za-xing.md)
 * [8.1 示例：编辑器文本类](xiang-xia-la-dong-fu-za-xing/8.1-shi-li-bian-ji-qi-wen-ben-lei.md)
 * [8.2 示例：配置参数](xiang-xia-la-dong-fu-za-xing/8.2-shi-li-pei-zhi-can-shu.md)
 * [8.3 走得太远](xiang-xia-la-dong-fu-za-xing/8.3-zou-de-tai-yuan.md)
-* [Page 1](xiang-xia-la-dong-fu-za-xing/page-1.md)
+* [8.4 小结](xiang-xia-la-dong-fu-za-xing/8.4-xiao-jie.md)
+
+## #⃣ 附录
+
+* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
