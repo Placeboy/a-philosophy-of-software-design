@@ -89,7 +89,7 @@
 * [9.1 如果信息被共享，则放在一起](<ch9 Better Together Or Better Apart?/9.1-ru-guo-xin-xi-bei-gong-xiang-ze-hui-ji-zai-yi-qi.md>)
 * [9.2 如果能简化接口，则放在一起](<ch9 Better Together Or Better Apart?/9.2-ru-guo-neng-jian-hua-jie-kou-jiu-ba-ta-ji-zhong-qi-lai.md>)
 * [9.3 合并以消除重复](<ch9 Better Together Or Better Apart?/9.3-he-bing-yi-xiao-chu-zhong-fu.md>)
-* [9.4 分开的通用代码和特殊用途代码](<ch9 Better Together Or Better Apart?/9.4-fen-kai-de-tong-yong-dai-ma-he-te-shu-yong-tu-dai-ma.md>)
+* [9.4 将通用代码和特殊用途代码分开](<ch9 Better Together Or Better Apart?/9.4-jiang-tong-yong-dai-ma-he-te-shu-yong-tu-dai-ma-fen-kai.md>)
 * [9.5 例子：插入游标和选择](<ch9 Better Together Or Better Apart?/9.5-li-zi-cha-ru-you-biao-he-xuan-ze.md>)
 * [9.6 例子：独立的记录类](<ch9 Better Together Or Better Apart?/9.6-li-zi-du-li-de-ji-lu-lei.md>)
 * [9.7 示例：编辑器撤销机制](<ch9 Better Together Or Better Apart?/9.7-shi-li-bian-ji-qi-che-xiao-ji-zhi.md>)
