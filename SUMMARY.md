@@ -93,7 +93,7 @@
 * [9.5 例子：插入光标和选中区](<ch9 Better Together Or Better Apart?/9.5-li-zi-cha-ru-you-biao-he-xuan-ze.md>)
 * [9.6 例子：独立的记录类](<ch9 Better Together Or Better Apart?/9.6-li-zi-du-li-de-ji-lu-lei.md>)
 * [9.7 例子：编辑器撤销机制](<ch9 Better Together Or Better Apart?/9.7-li-zi-bian-ji-qi-che-xiao-ji-zhi.md>)
-* [9.8 分割和连接方法](<ch9 Better Together Or Better Apart?/9.8-fen-ge-he-lian-jie-fang-fa.md>)
+* [9.8 拆分和连接方法](<ch9 Better Together Or Better Apart?/9.8-chai-fen-he-lian-jie-fang-fa.md>)
 * [9.9 小结](<ch9 Better Together Or Better Apart?/9.9-xiao-jie.md>)
 
 ## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
