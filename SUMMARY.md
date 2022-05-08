@@ -86,8 +86,8 @@
 ## 9⃣ 在一起更好还是分开更好？ <a href="#ch9 Better Together Or Better Apart?" id="ch9 Better Together Or Better Apart?"></a>
 
 * [在一起更好还是分开更好？](<ch9 Better Together Or Better Apart?/Better Together Or Better Apart.md>)
-* [9.1 如果信息被共享，则汇集在一起](<ch9 Better Together Or Better Apart?/9.1-ru-guo-xin-xi-bei-gong-xiang-ze-hui-ji-zai-yi-qi.md>)
-* [9.2 如果能简化接口，就把它集中起来](<ch9 Better Together Or Better Apart?/9.2-ru-guo-neng-jian-hua-jie-kou-jiu-ba-ta-ji-zhong-qi-lai.md>)
+* [9.1 如果信息被共享，则放在一起](<ch9 Better Together Or Better Apart?/9.1-ru-guo-xin-xi-bei-gong-xiang-ze-fang-zai-yi-qi.md>)
+* [9.2 如果能简化接口，则放在一起](<ch9 Better Together Or Better Apart?/9.2-ru-guo-neng-jian-hua-jie-kou-ze-fang-zai-yi-qi.md>)
 * [9.3 凝聚力量，消除重复](<ch9 Better Together Or Better Apart?/9.3-ning-ju-li-liang-xiao-chu-zhong-fu.md>)
 * [9.4 分开的通用代码和特殊用途代码](<ch9 Better Together Or Better Apart?/9.4-fen-kai-de-tong-yong-dai-ma-he-te-shu-yong-tu-dai-ma.md>)
 * [9.5 例子：插入游标和选择](<ch9 Better Together Or Better Apart?/9.5-li-zi-cha-ru-you-biao-he-xuan-ze.md>)
