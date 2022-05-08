@@ -86,14 +86,14 @@
 ## 9⃣ 在一起更好还是分开更好？ <a href="#ch9 Better Together Or Better Apart?" id="ch9 Better Together Or Better Apart?"></a>
 
 * [在一起更好还是分开更好？](<ch9 Better Together Or Better Apart?/Better Together Or Better Apart.md>)
-* [9.1 如果信息被共享，则放在一起](<ch9 Better Together Or Better Apart?/9.1-ru-guo-xin-xi-bei-gong-xiang-ze-hui-ji-zai-yi-qi.md>)
-* [9.2 如果能简化接口，则放在一起](<ch9 Better Together Or Better Apart?/9.2-ru-guo-neng-jian-hua-jie-kou-jiu-ba-ta-ji-zhong-qi-lai.md>)
+* [9.1 如果信息被共享，放在一起](<ch9 Better Together Or Better Apart?/9.1-ru-guo-xin-xi-bei-gong-xiang-fang-zai-yi-qi.md>)
+* [9.2 如果能简化接口，放在一起](<ch9 Better Together Or Better Apart?/9.2-ru-guo-neng-jian-hua-jie-kou-fang-zai-yi-qi.md>)
 * [9.3 合并以消除重复](<ch9 Better Together Or Better Apart?/9.3-he-bing-yi-xiao-chu-zhong-fu.md>)
 * [9.4 将通用代码和特殊用途代码分开](<ch9 Better Together Or Better Apart?/9.4-fen-kai-de-tong-yong-dai-ma-he-te-shu-yong-tu-dai-ma.md>)
 * [9.5 例子：插入光标和选中区](<ch9 Better Together Or Better Apart?/9.5-li-zi-cha-ru-you-biao-he-xuan-ze.md>)
 * [9.6 例子：独立的记录类](<ch9 Better Together Or Better Apart?/9.6-li-zi-du-li-de-ji-lu-lei.md>)
 * [9.7 例子：编辑器撤销机制](<ch9 Better Together Or Better Apart?/9.7-li-zi-bian-ji-qi-che-xiao-ji-zhi.md>)
-* [9.8 拆分和连接方法](<ch9 Better Together Or Better Apart?/9.8-chai-fen-he-lian-jie-fang-fa.md>)
+* [9.8 拆分和组合方法](<ch9 Better Together Or Better Apart?/9.8-chai-fen-he-zu-he-fang-fa.md>)
 * [9.9 小结](<ch9 Better Together Or Better Apart?/9.9-xiao-jie.md>)
 
 ## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
