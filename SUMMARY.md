@@ -104,7 +104,7 @@
 * [10.3 将错误定义为不存在的](group-1/10.3-ding-yi-cuo-wu-bu-cun-zai.md)
 * [10.4 例子：在Windows中删除文件](group-1/10.4-shi-li-zai-windows-zhong-shan-chu-wen-jian.md)
 * [10.5 例子：Java子串方法](group-1/10.5-shi-li-java-zi-chuan-fang-fa.md)
-* [10.6 掩码例外](group-1/10.6-yan-ma-li-wai.md)
+* [10.6 屏蔽异常](group-1/10.6-yan-ma-li-wai.md)
 * [10.7 异常情况汇总](group-1/10.7-yi-chang-qing-kuang-hui-zong.md)
 * [10.8 就这样崩溃了？](<ch10 Define Errors Out Of Existence/10.8-jiu-zhe-yang-beng-kui-le.md>)
 * [10.9 设计不存在的特殊情况](<ch10 Define Errors Out Of Existence/10.9-she-ji-bu-cun-zai-de-te-shu-qing-kuang.md>)
