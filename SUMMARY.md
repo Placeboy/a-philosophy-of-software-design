@@ -96,7 +96,7 @@
 * [9.8 拆分和组合方法](<ch9 Better Together Or Better Apart?/9.8-chai-fen-he-zu-he-fang-fa.md>)
 * [9.9 小结](<ch9 Better Together Or Better Apart?/9.9-xiao-jie.md>)
 
-## 0 第十章 定义错误不存在 <a href="#ch10 Define Errors Out Of Existence" id="ch10 Define Errors Out Of Existence"></a>
+## 0 第十章 将错误定义为不存在的 <a href="#ch10 Define Errors Out Of Existence" id="ch10 Define Errors Out Of Existence"></a>
 
 * [将错误定义为不存在的](group-1/jiang-cuo-wu-ding-yi-wei-bu-cun-zai-de.md)
 * [10.1 为什么异常情况会增加复杂性](group-1/10.1-wei-shi-mo-yi-chang-qing-kuang-hui-zeng-jia-fu-za-xing.md)
@@ -111,10 +111,10 @@
 * [10.10 走得太远](<ch10 Define Errors Out Of Existence/10.10-zou-de-tai-yuan.md>)
 * [10.11 小结](<ch10 Define Errors Out Of Existence/10.11-xiao-jie.md>)
 
-## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
-
-* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
-
 ## 1 第十一章 设计两次 <a href="#ch11 Design it Twice" id="ch11 Design it Twice"></a>
 
 * [设计两次](<ch11 Design it Twice/she-ji-liang-ci.md>)
+
+## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
+
+* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
