@@ -101,7 +101,7 @@
 * [将错误定义为不存在的](group-1/jiang-cuo-wu-ding-yi-wei-bu-cun-zai-de.md)
 * [10.1 为什么异常情况会增加复杂性](group-1/10.1-wei-shi-mo-yi-chang-qing-kuang-hui-zeng-jia-fu-za-xing.md)
 * [10.2 太多的异常](group-1/10.2-tai-duo-de-li-wai-qing-kuang.md)
-* [10.3 定义错误不存在](group-1/10.3-ding-yi-cuo-wu-bu-cun-zai.md)
+* [10.3 将错误定义为不存在的](group-1/10.3-ding-yi-cuo-wu-bu-cun-zai.md)
 * [10.4 示例：在Windows中删除文件](group-1/10.4-shi-li-zai-windows-zhong-shan-chu-wen-jian.md)
 * [10.5 示例：Java子串方法](group-1/10.5-shi-li-java-zi-chuan-fang-fa.md)
 * [10.6 掩码例外](group-1/10.6-yan-ma-li-wai.md)
