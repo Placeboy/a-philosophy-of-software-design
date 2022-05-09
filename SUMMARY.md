@@ -99,17 +99,17 @@
 ## 0 第十章 将错误定义为不存在的 <a href="#ch10 Define Errors Out Of Existence" id="ch10 Define Errors Out Of Existence"></a>
 
 * [将错误定义为不存在的](group-1/jiang-cuo-wu-ding-yi-wei-bu-cun-zai-de.md)
-* [10.1 为什么异常情况会增加复杂性](<ch10 Define Errors Out Of Existence/10.1.md>)
-* [10.2 太多的例外情况](<ch10 Define Errors Out Of Existence/10.2.md>)
-* [10.3 定义错误不存在](<ch10 Define Errors Out Of Existence/10.3.md>)
-* [10.4 示例：在Windows中删除文件](<ch10 Define Errors Out Of Existence/10.4.md>)
-* [10.5 示例：Java子串方法](group-1/10.5-shi-li-java-zi-chuan-fang-fa.md)
-* [10.6 掩码例外](group-1/10.6-yan-ma-li-wai.md)
-* [10.7 异常情况汇总](group-1/10.7-yi-chang-qing-kuang-hui-zong.md)
-* [10.8 就这样崩溃了？](<ch10 Define Errors Out Of Existence/10.8-jiu-zhe-yang-beng-kui-le.md>)
-* [10.9 设计不存在的特殊情况](<ch10 Define Errors Out Of Existence/10.9-she-ji-bu-cun-zai-de-te-shu-qing-kuang.md>)
-* [10.10 走得太远](<ch10 Define Errors Out Of Existence/10.10-zou-de-tai-yuan.md>)
-* [10.11 小结](<ch10 Define Errors Out Of Existence/10.11-xiao-jie.md>)
+* [10.1 为什么异常情况会增加复杂性](group-1/10.1-wei-shi-mo-yi-chang-qing-kuang-hui-zeng-jia-fu-za-xing.md)
+* [10.2 太多的例外情况](group-1/10.2-tai-duo-de-li-wai-qing-kuang.md)
+* [10.3 定义错误不存在](group-1/10.3-ding-yi-cuo-wu-bu-cun-zai.md)
+* [10.4 示例：在Windows中删除文件](group-1/10.4-shi-li-zai-windows-zhong-shan-chu-wen-jian.md)
+* [10.5 示例：Java子串方法](<ch10 Define Errors Out Of Existence/10.5.md>)
+* [10.6 掩码例外](<ch10 Define Errors Out Of Existence/10.6.md>)
+* [10.7 异常情况汇总](<ch10 Define Errors Out Of Existence/10.7.md>)
+* [10.8 就这样崩溃了？](<ch10 Define Errors Out Of Existence/10.8.md>)
+* [10.9 设计不存在的特殊情况](<ch10 Define Errors Out Of Existence/10.9.md>)
+* [10.10 走得太远](<ch10 Define Errors Out Of Existence/10.10.md>)
+* [10.11 小结](<ch10 Define Errors Out Of Existence/10.11.md>)
 
 ## 1 第十一章 设计两次 <a href="#ch11 Design it Twice" id="ch11 Design it Twice"></a>
 
