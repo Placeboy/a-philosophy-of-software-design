@@ -114,3 +114,7 @@
 ## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
 
 * [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
+
+## 1 第十一章 设计两次 <a href="#ch11 Design it Twice" id="ch11 Design it Twice"></a>
+
+* [设计两次](<ch11 Design it Twice/she-ji-liang-ci.md>)
