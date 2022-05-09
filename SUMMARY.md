@@ -75,7 +75,7 @@
 * [7.5 传递式变量](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.5-chuan-di-shi-bian-liang.md)
 * [7.6 小结](di-qi-zhang-bu-tong-de-ceng-bu-tong-de-chou-xiang/7.6-xiao-jie.md)
 
-## 8⃣ 下拉复杂性 <a href="#ch8 Pull Complexity Downwards" id="ch8 Pull Complexity Downwards"></a>
+## 8⃣ 第八章 下拉复杂性 <a href="#ch8 Pull Complexity Downwards" id="ch8 Pull Complexity Downwards"></a>
 
 * [下拉复杂性](xiang-xia-la-dong-fu-za-xing/xia-la-fu-za-xing.md)
 * [8.1 例子：编辑器文本类](xiang-xia-la-dong-fu-za-xing/8.1-li-zi-bian-ji-qi-wen-ben-lei.md)
@@ -83,7 +83,7 @@
 * [8.3 走得太远](xiang-xia-la-dong-fu-za-xing/8.3-zou-de-tai-yuan.md)
 * [8.4 小结](xiang-xia-la-dong-fu-za-xing/8.4-xiao-jie.md)
 
-## 9⃣ 在一起更好还是分开更好？ <a href="#ch9 Better Together Or Better Apart?" id="ch9 Better Together Or Better Apart?"></a>
+## 9⃣ 第九章 在一起更好还是分开更好？ <a href="#ch9 Better Together Or Better Apart?" id="ch9 Better Together Or Better Apart?"></a>
 
 * [在一起更好还是分开更好？](<ch9 Better Together Or Better Apart?/Better Together Or Better Apart.md>)
 * [9.1 如果信息被共享，放在一起](<ch9 Better Together Or Better Apart?/9.1-ru-guo-xin-xi-bei-gong-xiang-fang-zai-yi-qi.md>)
