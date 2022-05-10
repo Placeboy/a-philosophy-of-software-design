@@ -120,9 +120,9 @@
 * [为什么要写注释？四个借口](<ch12 Why Write Comments? The Four Excuses/wei-shi-mo-yao-xie-zhu-shi-si-ge-jie-kou.md>)
 * [12.1 好的代码是自文档化的](<ch12 Why Write Comments? The Four Excuses/12.1-hao-de-dai-ma-shi-zi-wen-dang-hua-de.md>)
 * [12.2 我没有时间写注释](<ch12 Why Write Comments? The Four Excuses/12.2-wo-mei-you-shi-jian-xie-zhu-shi.md>)
-* [12.3 注释过期并具有误导性](<ch12 Why Write Comments? The Four Excuses/12.3-zhu-shi-guo-qi-bing-ju-you-wu-dao-xing.md>)
-* [12.4 我所看到的所有注释都是毫无价值的](<ch12 Why Write Comments? The Four Excuses/12.4-wo-suo-kan-dao-de-suo-you-zhu-shi-du-shi-hao-wu-jia-zhi-de.md>)
-* [12.5 写得好的评论的好处](<ch12 Why Write Comments? The Four Excuses/12.5-xie-de-hao-de-ping-lun-de-hao-chu.md>)
+* [12.3 注释会过时并变得具有误导性](<ch12 Why Write Comments? The Four Excuses/12.3-zhu-shi-hui-guo-shi-bing-bian-de-ju-you-wu-dao-xing.md>)
+* [12.4 我所看到的注释都是毫无价值的](<ch12 Why Write Comments? The Four Excuses/12.4-wo-suo-kan-dao-de-zhu-shi-du-shi-hao-wu-jia-zhi-de.md>)
+* [12.5 良好注释的好处](<ch12 Why Write Comments? The Four Excuses/12.5-liang-hao-zhu-shi-de-hao-chu.md>)
 
 ## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
 
