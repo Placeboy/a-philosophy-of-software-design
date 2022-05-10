@@ -115,15 +115,15 @@
 
 * [设计两次](<ch11 Design it Twice/she-ji-liang-ci.md>)
 
+## 第十二章 为什么要写注释？四个借口 <a href="#ch12" id="ch12"></a>
+
+* [为什么要写注释？四个理由](ch12/wei-shi-mo-yao-xie-zhu-shi-si-ge-li-you.md)
+* [12.1 好的代码是自带文档的](ch12/12.1-hao-de-dai-ma-shi-zi-dai-wen-dang-de.md)
+* [12.2 我没有时间写注释](ch12/12.2-wo-mei-you-shi-jian-xie-zhu-shi.md)
+* [12.3 评论过期并具有误导性](ch12/12.3-ping-lun-guo-qi-bing-ju-you-wu-dao-xing.md)
+* [12.4 我所看到的所有评论都是毫无价值的](ch12/12.4-wo-suo-kan-dao-de-suo-you-ping-lun-du-shi-hao-wu-jia-zhi-de.md)
+* [12.5 写得好的评论的好处](ch12/12.5-xie-de-hao-de-ping-lun-de-hao-chu.md)
+
 ## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
 
 * [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
-
-## Group 1
-
-* [为什么要写注释？四个理由](group-1/wei-shi-mo-yao-xie-zhu-shi-si-ge-li-you.md)
-* [12.1 好的代码是自带文档的](group-1/12.1-hao-de-dai-ma-shi-zi-dai-wen-dang-de.md)
-* [12.2 我没有时间写注释](group-1/12.2-wo-mei-you-shi-jian-xie-zhu-shi.md)
-* [12.3 评论过期并具有误导性](group-1/12.3-ping-lun-guo-qi-bing-ju-you-wu-dao-xing.md)
-* [12.4 我所看到的所有评论都是毫无价值的](group-1/12.4-wo-suo-kan-dao-de-suo-you-ping-lun-du-shi-hao-wu-jia-zhi-de.md)
-* [12.5 写得好的评论的好处](group-1/12.5-xie-de-hao-de-ping-lun-de-hao-chu.md)
