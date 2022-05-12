@@ -128,6 +128,15 @@
 
 * [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
 
-## Group 1
+## 3 第十三章 评论应该描述那些在代码中不明显的东西
 
-* [第十三章](group-1/di-shi-san-zhang.md)
+* [注释应该描述那些在代码中不明显的东西](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi.md)
+* [13.1 挑选惯例](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.1-tiao-xuan-guan-li.md)
+* [13.2 不要重复代码](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.2-bu-yao-zhong-fu-dai-ma.md)
+* [13.3 低级别的评论增加了精确性](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.3-di-ji-bie-de-ping-lun-zeng-jia-le-jing-que-xing.md)
+* [13.4 更高层次的评论增强直觉](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.4-geng-gao-ceng-ci-de-ping-lun-zeng-qiang-zhi-jue.md)
+* [13.5 接口文档](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.5-jie-kou-wen-dang.md)
+* [13.6 实施意见：是什么和为什么，而不是怎么做](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.6-shi-shi-yi-jian-shi-shi-mo-he-wei-shi-mo-er-bu-shi-zen-mo-zuo.md)
+* [13.7 跨模块设计决定](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.7-kua-mo-kuai-she-ji-jue-ding.md)
+* [13.8 结论](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.8-jie-lun.md)
+* [13.9 对第13.5节的问题的回答](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.9-dui-di-13.5-jie-de-wen-ti-de-hui-da.md)
