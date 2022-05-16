@@ -127,7 +127,7 @@
 ## 3 第十三章 评论应该描述那些在代码中不明显的东西
 
 * [注释应该描述那些在代码中不明显的东西](group-1/di-shi-san-zhang.md)
-* [13.1 挑选约定](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.1-tiao-xuan-yue-ding.md)
+* [13.1 挑选约定](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.1-tiao-xuan-guan-li.md)
 * [13.2 不要重复代码](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.2-bu-yao-zhong-fu-dai-ma.md)
 * [13.3 低级别的评论增加了精确性](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.3-di-ji-bie-de-ping-lun-zeng-jia-le-jing-que-xing.md)
 * [13.4 更高层次的评论增强直觉](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.4-geng-gao-ceng-ci-de-ping-lun-zeng-qiang-zhi-jue.md)
