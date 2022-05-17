@@ -137,13 +137,6 @@
 * [13.8 结论](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.8-jie-lun.md)
 * [13.9 对第13.5节的问题的回答](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.9-dui-di-13.5-jie-de-wen-ti-de-hui-da.md)
 
-## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
-
-* [设计原则摘要](Appendix/she-ji-yuan-ze-zhai-yao.md)
-* [危险信号摘要](Appendix/wei-xian-xin-hao-zhai-yao.md)
-* [关于作者](Appendix/guan-yu-zuo-zhe.md)
-* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
-
 ## 4 第十四章 选择名称 <a href="#ch14 Choosing Names" id="ch14 Choosing Names"></a>
 
 * [选择名称](<ch14 Choosing Names/xuan-ze-ming-cheng.md>)
@@ -153,3 +146,10 @@
 * [14.4 统一使用名称](<ch14 Choosing Names/14.4-tong-yi-shi-yong-ming-cheng.md>)
 * [14.5 一种不同的意见：Go风格指南](<ch14 Choosing Names/14.5-yi-zhong-bu-tong-de-yi-jian-go-feng-ge-zhi-nan.md>)
 * [14.6 小结](<ch14 Choosing Names/14.6-xiao-jie.md>)
+
+## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
+
+* [设计原则摘要](Appendix/she-ji-yuan-ze-zhai-yao.md)
+* [危险信号摘要](Appendix/wei-xian-xin-hao-zhai-yao.md)
+* [关于作者](Appendix/guan-yu-zuo-zhe.md)
+* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
