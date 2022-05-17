@@ -140,7 +140,7 @@
 ## 4 第十四章 选择名称 <a href="#ch14 Choosing Names" id="ch14 Choosing Names"></a>
 
 * [选择名称](<ch14 Choosing Names/xuan-ze-ming-cheng.md>)
-* [14.1 例子：不好的名字会导致bug](<ch14 Choosing Names/14.1-li-zi-bu-hao-de-ming-zi-hui-dao-zhi-bug.md>)
+* [14.1 例子：不好的名称会导致bug](<ch14 Choosing Names/14.1-li-zi-bu-hao-de-ming-cheng-hui-dao-zhi-bug.md>)
 * [14.2 创建一个图像](<ch14 Choosing Names/14.2-chuang-jian-yi-ge-tu-xiang.md>)
 * [14.3 名称应当准确](<ch14 Choosing Names/14.3-ming-cheng-ying-dang-zhun-que.md>)
 * [14.4 统一使用名称](<ch14 Choosing Names/14.4-tong-yi-shi-yong-ming-cheng.md>)
