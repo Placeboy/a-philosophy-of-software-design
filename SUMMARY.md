@@ -139,6 +139,9 @@
 
 ## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
 
+* [设计原则摘要](Appendix/she-ji-yuan-ze-zhai-yao.md)
+* [危险信号摘要](Appendix/wei-xian-xin-hao-zhai-yao.md)
+* [关于作者](Appendix/guan-yu-zuo-zhe.md)
 * [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
 
 ## 4 第十四章 选择名称 <a href="#ch14 Choosing Names" id="ch14 Choosing Names"></a>
