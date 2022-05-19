@@ -147,13 +147,6 @@
 * [14.5 一种不同的意见：Go风格指南](<ch14 Choosing Names/14.5-yi-zhong-bu-tong-de-yi-jian-go-feng-ge-zhi-nan.md>)
 * [14.6 小结](<ch14 Choosing Names/14.6-xiao-jie.md>)
 
-## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
-
-* [设计原则摘要](Appendix/she-ji-yuan-ze-zhai-yao.md)
-* [危险信号摘要](Appendix/wei-xian-xin-hao-zhai-yao.md)
-* [关于作者](Appendix/guan-yu-zuo-zhe.md)
-* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
-
 ## 5 第十五章 先写注释 <a href="#ch15 Write The Comments First" id="ch15 Write The Comments First"></a>
 
 * [先写注释](<ch15 Write The Comments First/xian-xie-zhu-shi.md>)
@@ -161,5 +154,12 @@
 * [15.2 先写注释](<ch15 Write The Comments First/15.2-xian-xie-zhu-shi.md>)
 * [15.3 注释是一种设计工具](<ch15 Write The Comments First/15.3-zhu-shi-shi-yi-zhong-she-ji-gong-ju.md>)
 * [15.4 早期的注释是有趣的注释](<ch15 Write The Comments First/15.4-zao-qi-de-zhu-shi-shi-you-qu-de-zhu-shi.md>)
-* [15.5 早期注释是否昂贵？](<ch15 Write The Comments First/15.5-zao-qi-zhu-shi-shi-fou-ang-gui.md>)
+* [15.5 早期注释是否成本过高？](<ch15 Write The Comments First/15.5-zao-qi-zhu-shi-shi-fou-cheng-ben-guo-gao.md>)
 * [15.6 小结](<ch15 Write The Comments First/15.6-xiao-jie.md>)
+
+## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
+
+* [设计原则摘要](Appendix/she-ji-yuan-ze-zhai-yao.md)
+* [危险信号摘要](Appendix/wei-xian-xin-hao-zhai-yao.md)
+* [关于作者](Appendix/guan-yu-zuo-zhe.md)
+* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
