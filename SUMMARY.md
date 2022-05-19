@@ -157,7 +157,7 @@
 ## 5 第十五章 先写注释 <a href="#ch15 Write The Comments First" id="ch15 Write The Comments First"></a>
 
 * [先写注释](<ch15 Write The Comments First/xian-xie-zhu-shi.md>)
-* [15.1 延迟的注释是不好的注释](<ch15 Write The Comments First/15.1-yan-chi-de-zhu-shi-shi-bu-hao-de-zhu-shi.md>)
+* [15.1 迟到的注释不是好注释](<ch15 Write The Comments First/15.1-chi-dao-de-zhu-shi-bu-shi-hao-zhu-shi.md>)
 * [15.2 先写注释](<ch15 Write The Comments First/15.2-xian-xie-zhu-shi.md>)
 * [15.3 注释是一种设计工具](<ch15 Write The Comments First/15.3-zhu-shi-shi-yi-zhong-she-ji-gong-ju.md>)
 * [15.4 早期的注释是有趣的注释](<ch15 Write The Comments First/15.4-zao-qi-de-zhu-shi-shi-you-qu-de-zhu-shi.md>)
