@@ -165,7 +165,7 @@
 * [16.3 注释属于代码，而不是提交日志](di-shi-liu-zhang-xiu-gai-xian-you-dai-ma/16.3-zhu-shi-shu-yu-dai-ma-er-bu-shi-ti-jiao-ri-zhi.md)
 * [16.4 维护注释：避免重复](di-shi-liu-zhang-xiu-gai-xian-you-dai-ma/16.4-wei-hu-zhu-shi-bi-mian-zhong-fu.md)
 * [16.5 维护注释：检查差异](di-shi-liu-zhang-xiu-gai-xian-you-dai-ma/16.5-wei-hu-zhu-shi-jian-cha-cha-yi.md)
-* [16.6 更高层次的评论更容易维护](di-shi-liu-zhang-xiu-gai-xian-you-dai-ma/16.6-geng-gao-ceng-ci-de-ping-lun-geng-rong-yi-wei-hu.md)
+* [16.6 更高层的注释更容易维护](di-shi-liu-zhang-xiu-gai-xian-you-dai-ma/16.6-geng-gao-ceng-de-zhu-shi-geng-rong-yi-wei-hu.md)
 
 ## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
 
