@@ -174,10 +174,10 @@
 * [关于作者](Appendix/guan-yu-zuo-zhe.md)
 * [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
 
-## Group 1
+## 7 第十七章 一致性 <a href="#ch17" id="ch17"></a>
 
-* [一致性](group-1/yi-zhi-xing.md)
-* [17.1 一致性的例子](group-1/17.1-yi-zhi-xing-de-li-zi.md)
-* [17.2 确保一致性](group-1/17.2-que-bao-yi-zhi-xing.md)
-* [17.3 走得太远](group-1/17.3-zou-de-tai-yuan.md)
-* [17.4 小结](group-1/17.4-xiao-jie.md)
+* [一致性](ch17/yi-zhi-xing.md)
+* [17.1 一致性的例子](ch17/17.1-yi-zhi-xing-de-li-zi.md)
+* [17.2 确保一致性](ch17/17.2-que-bao-yi-zhi-xing.md)
+* [17.3 走得太远](ch17/17.3-zou-de-tai-yuan.md)
+* [17.4 小结](ch17/17.4-xiao-jie.md)
