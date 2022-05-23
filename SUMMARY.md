@@ -167,13 +167,6 @@
 * [16.5 维护注释：检查差异](di-shi-liu-zhang-xiu-gai-xian-you-dai-ma/16.5-wei-hu-zhu-shi-jian-cha-cha-yi.md)
 * [16.6 更高层的注释更容易维护](di-shi-liu-zhang-xiu-gai-xian-you-dai-ma/16.6-geng-gao-ceng-de-zhu-shi-geng-rong-yi-wei-hu.md)
 
-## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
-
-* [设计原则摘要](Appendix/she-ji-yuan-ze-zhai-yao.md)
-* [危险信号摘要](Appendix/wei-xian-xin-hao-zhai-yao.md)
-* [关于作者](Appendix/guan-yu-zuo-zhe.md)
-* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
-
 ## 7 第十七章 一致性 <a href="#ch17" id="ch17"></a>
 
 * [一致性](ch17/yi-zhi-xing.md)
@@ -181,3 +174,10 @@
 * [17.2 确保一致性](ch17/17.2-que-bao-yi-zhi-xing.md)
 * [17.3 走得太远](ch17/17.3-zou-de-tai-yuan.md)
 * [17.4 小结](ch17/17.4-xiao-jie.md)
+
+## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
+
+* [设计原则摘要](Appendix/she-ji-yuan-ze-zhai-yao.md)
+* [危险信号摘要](Appendix/wei-xian-xin-hao-zhai-yao.md)
+* [关于作者](Appendix/guan-yu-zuo-zhe.md)
+* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
