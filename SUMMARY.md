@@ -178,8 +178,8 @@
 ## 8 第十八章 代码应当易于理解 <a href="#ch18" id="ch18"></a>
 
 * [代码应当易于理解](ch18/dai-ma-ying-dang-yi-yu-li-jie.md)
-* [18.1 使代码更明显的东西](ch18/18.1-shi-dai-ma-geng-ming-xian-de-dong-xi.md)
-* [18.2 使代码不那么明显的事情](ch18/18.2-shi-dai-ma-bu-na-mo-ming-xian-de-shi-qing.md)
+* [18.1 使代码更易于理解的东西](ch18/18.1-shi-dai-ma-geng-yi-yu-li-jie-de-dong-xi.md)
+* [18.2 使代码更不易于理解的东西](ch18/18.2-shi-dai-ma-geng-bu-yi-yu-li-jie-de-dong-xi.md)
 * [18.3 小结](ch18/18.3-xiao-jie.md)
 
 ## 🔚 第21章 总结
