@@ -182,6 +182,10 @@
 * [18.2 使代码不那么明显的事情](ch18/18.2-shi-dai-ma-bu-na-mo-ming-xian-de-shi-qing.md)
 * [18.3 小结](ch18/18.3-xiao-jie.md)
 
+## 🔚 第21章 总结
+
+* [总结](di-21-zhang-zong-jie/zong-jie.md)
+
 ## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
 
 * [设计原则摘要](Appendix/she-ji-yuan-ze-zhai-yao.md)
