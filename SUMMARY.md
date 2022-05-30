@@ -96,7 +96,7 @@
 * [9.8 拆分和组合方法](<ch9 Better Together Or Better Apart?/9.8-chai-fen-he-zu-he-fang-fa.md>)
 * [9.9 小结](<ch9 Better Together Or Better Apart?/9.9-xiao-jie.md>)
 
-## 0 第十章 将错误定义为不存在的 <a href="#ch10 Define Errors Out Of Existence" id="ch10 Define Errors Out Of Existence"></a>
+## 🔟 第十章 将错误定义为不存在的 <a href="#ch10 Define Errors Out Of Existence" id="ch10 Define Errors Out Of Existence"></a>
 
 * [将错误定义为不存在的](group-1/jiang-cuo-wu-ding-yi-wei-bu-cun-zai-de.md)
 * [10.1 为什么异常情况会增加复杂性](group-1/10.1-wei-shi-mo-yi-chang-qing-kuang-hui-zeng-jia-fu-za-xing.md)
@@ -182,17 +182,6 @@
 * [18.2 使代码更不易于理解的东西](ch18/18.2-shi-dai-ma-geng-bu-yi-yu-li-jie-de-dong-xi.md)
 * [18.3 小结](ch18/18.3-xiao-jie.md)
 
-## 🔚 第21章 总结
-
-* [总结](di-21-zhang-zong-jie/zong-jie.md)
-
-## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
-
-* [设计原则摘要](Appendix/she-ji-yuan-ze-zhai-yao.md)
-* [危险信号摘要](Appendix/wei-xian-xin-hao-zhai-yao.md)
-* [关于作者](Appendix/guan-yu-zuo-zhe.md)
-* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
-
 ## 9 第十九章 软件发展趋势 <a href="#ch19" id="ch19"></a>
 
 * [软件发展趋势](ch19/ruan-jian-fa-zhan-qu-shi.md)
@@ -203,3 +192,23 @@
 * [19.5 设计模式](ch19/19.5-she-ji-mo-shi.md)
 * [19.6 Getters and setters](ch19/19.6-getters-and-setters.md)
 * [19.7 小结](ch19/19.7-xiao-jie.md)
+
+## 0 第二十章 为性能而设计
+
+* [为性能而设计](di-er-shi-zhang-wei-xing-neng-er-she-ji/wei-xing-neng-er-she-ji.md)
+* [20.1 如何思考性能问题](di-er-shi-zhang-wei-xing-neng-er-she-ji/20.1-ru-he-si-kao-xing-neng-wen-ti.md)
+* [20.2 修改前的测量](di-er-shi-zhang-wei-xing-neng-er-she-ji/20.2-xiu-gai-qian-de-ce-liang.md)
+* [20.3 围绕关键路径进行设计](di-er-shi-zhang-wei-xing-neng-er-she-ji/20.3-wei-rao-guan-jian-lu-jing-jin-hang-she-ji.md)
+* [20.4 一个例子：RAMCloud缓冲区](di-er-shi-zhang-wei-xing-neng-er-she-ji/20.4-yi-ge-li-zi-ramcloud-huan-chong-qu.md)
+* [20.5 小结](di-er-shi-zhang-wei-xing-neng-er-she-ji/20.5-xiao-jie.md)
+
+## 🔚 第21章 总结
+
+* [总结](di-21-zhang-zong-jie/zong-jie.md)
+
+## #⃣ 附录 <a href="#Appendix" id="Appendix"></a>
+
+* [设计原则摘要](Appendix/she-ji-yuan-ze-zhai-yao.md)
+* [危险信号摘要](Appendix/wei-xian-xin-hao-zhai-yao.md)
+* [关于作者](Appendix/guan-yu-zuo-zhe.md)
+* [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
