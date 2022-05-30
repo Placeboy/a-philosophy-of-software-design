@@ -192,3 +192,14 @@
 * [危险信号摘要](Appendix/wei-xian-xin-hao-zhai-yao.md)
 * [关于作者](Appendix/guan-yu-zuo-zhe.md)
 * [作者/译者](fu-lu/zuo-zhe-yi-zhe.md)
+
+## 9 第十九章 软件发展趋势 <a href="#ch19" id="ch19"></a>
+
+* [软件发展趋势](ch19/ruan-jian-fa-zhan-qu-shi.md)
+* [19.1 面向对象的编程和继承](ch19/19.1-mian-xiang-dui-xiang-de-bian-cheng-he-ji-cheng.md)
+* [19.2 敏捷开发](ch19/19.2-min-jie-kai-fa.md)
+* [19.3 单元测试](ch19/19.3-dan-yuan-ce-shi.md)
+* [19.4 测试驱动的开发](ch19/19.4-ce-shi-qu-dong-de-kai-fa.md)
+* [19.5 设计模式](ch19/19.5-she-ji-mo-shi.md)
+* [19.6 Getters and setters](ch19/19.6-getters-and-setters.md)
+* [19.7 小结](ch19/19.7-xiao-jie.md)
