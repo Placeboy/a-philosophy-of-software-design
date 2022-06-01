@@ -31,7 +31,7 @@
 
 ## 4⃣ 第四章 模块应该是深的 <a href="#ch4 Modules Should Be Deep" id="ch4 Modules Should Be Deep"></a>
 
-* [模块应该是深的](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/mo-kuai-ying-gai-shi-shen-de.md)
+* [模块应当是深的](<ch4 Modules Should Be Deep/mo-kuai-ying-dang-shi-shen-de.md>)
 * [4.1 模块化设计](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.1-mo-kuai-hua-she-ji.md)
 * [4.2 接口中有什么？](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.2-jie-kou-zhong-you-shi-mo.md)
 * [4.3 抽象](di-si-zhang-mo-kuai-ying-gai-shi-shen-de/4.3-chou-xiang.md)
