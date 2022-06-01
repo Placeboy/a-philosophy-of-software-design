@@ -18,7 +18,7 @@
 * [2.2 复杂性的症状](di-er-zhang-fu-za-xing-de-ben-zhi/2.2-fu-za-xing-de-zheng-zhuang.md)
 * [2.3 造成复杂性的原因](di-er-zhang-fu-za-xing-de-ben-zhi/2.3-zao-cheng-fu-za-xing-de-yuan-yin.md)
 * [2.4 复杂性是逐步增加的](di-er-zhang-fu-za-xing-de-ben-zhi/2.4-fu-za-xing-shi-zhu-bu-zeng-jia-de.md)
-* [2.5 结论](di-er-zhang-fu-za-xing-de-ben-zhi/2.5-jie-lun.md)
+* [2.5 小结](<ch2 The Nature of Complexity/2.5-xiao-jie.md>)
 
 ## 3⃣ 第三章 让代码工作起来是不够的 <a href="#ch3 Working Code Isn’t Enough" id="ch3 Working Code Isn’t Enough"></a>
 
