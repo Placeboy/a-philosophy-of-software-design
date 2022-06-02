@@ -124,18 +124,18 @@
 * [12.4 我所看到的注释都是毫无价值的](<ch12 Why Write Comments? The Four Excuses/12.4-wo-suo-kan-dao-de-zhu-shi-du-shi-hao-wu-jia-zhi-de.md>)
 * [12.5 良好注释的好处](<ch12 Why Write Comments? The Four Excuses/12.5-liang-hao-zhu-shi-de-hao-chu.md>)
 
-## 3 第十三章 评论应该描述那些在代码中不明显的东西
+## 3 第十三章 注释应该描述那些在代码中不明显的东西
 
-* [注释应该描述那些在代码中不明显的东西](group-1/di-shi-san-zhang.md)
-* [13.1 挑选约定](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.1-tiao-xuan-guan-li.md)
-* [13.2 不要重复代码](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.2-bu-yao-zhong-fu-dai-ma.md)
-* [13.3 更低层次的评论增加了精确性](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.3-di-ji-bie-de-ping-lun-zeng-jia-le-jing-que-xing.md)
-* [13.4 更高层次的注释增强直觉](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.4-geng-gao-ceng-ci-de-ping-lun-zeng-qiang-zhi-jue.md)
-* [13.5 接口文档](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.5-jie-kou-wen-dang.md)
-* [13.6 实现注释：是什么和为什么，而不是怎么做](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.6-shi-shi-yi-jian-shi-shi-mo-he-wei-shi-mo-er-bu-shi-zen-mo-zuo.md)
-* [13.7 跨模块设计决策](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.7-kua-mo-kuai-she-ji-jue-ding.md)
-* [13.8 结论](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.8-jie-lun.md)
-* [13.9 对第13.5节的问题的回答](di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.9-dui-di-13.5-jie-de-wen-ti-de-hui-da.md)
+* [注释应该描述那些在代码中不明显的东西](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi.md)
+* [13.1 挑选约定](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.1-tiao-xuan-yue-ding.md)
+* [13.2 不要重复代码](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.2-bu-yao-zhong-fu-dai-ma.md)
+* [13.3 更低层次的注释增加了精确性](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.3-geng-di-ceng-ci-de-zhu-shi-zeng-jia-le-jing-que-xing.md)
+* [13.4 更高层次的注释增强直觉](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.4-geng-gao-ceng-ci-de-zhu-shi-zeng-qiang-zhi-jue.md)
+* [13.5 接口文档](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.5-jie-kou-wen-dang.md)
+* [13.6 实现注释：是什么和为什么，而不是怎么做](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.6-shi-xian-zhu-shi-shi-shi-mo-he-wei-shi-mo-er-bu-shi-zen-mo-zuo.md)
+* [13.7 跨模块设计决策](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.7-kua-mo-kuai-she-ji-jue-ce.md)
+* [13.8 结论](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.8-jie-lun.md)
+* [13.9 对第13.5节的问题的回答](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.9-dui-di-13.5-jie-de-wen-ti-de-hui-da.md)
 
 ## 4 第十四章 选择名称 <a href="#ch14 Choosing Names" id="ch14 Choosing Names"></a>
 

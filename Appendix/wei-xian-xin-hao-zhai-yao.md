@@ -18,9 +18,9 @@
 
 **连体方法**：两个方法有很多依赖关系，如果不了解另一个方法的实现，就很难了解一个方法的实现（见[9.8小节](<../ch9 Better Together Or Better Apart?/9.8-chai-fen-he-zu-he-fang-fa.md>)）。
 
-**注释重复代码**：注释中的所有信息都可以从注释旁边的代码中一眼看出（见[13.2小节](../di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.2-bu-yao-zhong-fu-dai-ma.md)）。
+**注释重复代码**：注释中的所有信息都可以从注释旁边的代码中一眼看出（见[13.2小节](../di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.2-bu-yao-zhong-fu-dai-ma.md)）。
 
-**实现文档污染了接口**：接口注释描述了用户不需要的实现细节（见[13.5小节](../di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.5-jie-kou-wen-dang.md)）。
+**实现文档污染了接口**：接口注释描述了用户不需要的实现细节（见[13.5小节](../di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.5-jie-kou-wen-dang.md)）。
 
 **模糊的名称**：一个变量或方法的名称非常不精确，以至于没有传达多少有用的信息（见[14.3小节](<../ch14 Choosing Names/14.3-ming-cheng-ying-dang-zhun-que.md>)）。
 
