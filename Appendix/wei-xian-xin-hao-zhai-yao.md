@@ -14,9 +14,9 @@
 
 **重复**：一段不重要的代码被不断地重复（见[9.4小节](<../ch9 Better Together Or Better Apart?/9.4-fen-kai-de-tong-yong-dai-ma-he-te-shu-yong-tu-dai-ma.md>)）。
 
-**特殊-普通混合**：特殊用途的代码与普通用途的代码没有干净地分开（见[9.5小节](<../ch9 Better Together Or Better Apart?/9.5-li-zi-cha-ru-you-biao-he-xuan-ze.md>)）。
+**特殊-普通混合体**：特殊用途的代码与普通用途的代码没有干净地分开（见[9.5小节](<../ch9 Better Together Or Better Apart?/9.5-li-zi-cha-ru-you-biao-he-xuan-ze.md>)）。
 
-**连在一起的方法**：两个方法有很多依赖关系，如果不了解另一个方法的实现，就很难了解一个方法的实现（见[9.8小节](<../ch9 Better Together Or Better Apart?/9.8-chai-fen-he-zu-he-fang-fa.md>)）。
+**连体方法**：两个方法有很多依赖关系，如果不了解另一个方法的实现，就很难了解一个方法的实现（见[9.8小节](<../ch9 Better Together Or Better Apart?/9.8-chai-fen-he-zu-he-fang-fa.md>)）。
 
 **注释重复代码**：注释中的所有信息都可以从注释旁边的代码中一眼看出（见[13.2小节](../di-shi-san-zhang-ping-lun-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.2-bu-yao-zhong-fu-dai-ma.md)）。
 
