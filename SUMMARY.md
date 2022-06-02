@@ -107,7 +107,7 @@
 * [10.6 屏蔽异常](group-1/10.6-yan-ma-li-wai.md)
 * [10.7 异常聚合](group-1/10.7-yi-chang-qing-kuang-hui-zong.md)
 * [10.8 就崩溃吧？](<ch10 Define Errors Out Of Existence/10.8-jiu-zhe-yang-beng-kui-le.md>)
-* [10.9 设计不存在的特殊情况](<ch10 Define Errors Out Of Existence/10.9-she-ji-bu-cun-zai-de-te-shu-qing-kuang.md>)
+* [10.9 将特殊情况设计为不存在的](<ch10 Define Errors Out Of Existence/10.9-she-ji-bu-cun-zai-de-te-shu-qing-kuang.md>)
 * [10.10 走得太远](<ch10 Define Errors Out Of Existence/10.10-zou-de-tai-yuan.md>)
 * [10.11 小结](<ch10 Define Errors Out Of Existence/10.11-xiao-jie.md>)
 
