@@ -134,7 +134,7 @@
 * [13.5 接口文档](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.5-jie-kou-wen-dang.md)
 * [13.6 实现注释：是什么和为什么，而不是怎么做](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.6-shi-xian-zhu-shi-shi-shi-mo-he-wei-shi-mo-er-bu-shi-zen-mo-zuo.md)
 * [13.7 跨模块设计决策](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.7-kua-mo-kuai-she-ji-jue-ce.md)
-* [13.8 结论](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.8-jie-lun.md)
+* [13.8 小结](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.8-xiao-jie.md)
 * [13.9 对第13.5节的问题的回答](di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.9-dui-di-13.5-jie-de-wen-ti-de-hui-da.md)
 
 ## 4 第十四章 选择名称 <a href="#ch14 Choosing Names" id="ch14 Choosing Names"></a>

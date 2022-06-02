@@ -22,7 +22,7 @@
 
 **实现文档污染了接口**：接口注释描述了用户不需要的实现细节（见[13.5小节](../di-shi-san-zhang-zhu-shi-ying-gai-miao-shu-na-xie-zai-dai-ma-zhong-bu-ming-xian-de-dong-xi/13.5-jie-kou-wen-dang.md)）。
 
-**模糊的名称**：一个变量或方法的名称非常不精确，以至于没有传达多少有用的信息（见[14.3小节](<../ch14 Choosing Names/14.3-ming-cheng-ying-dang-zhun-que.md>)）。
+**含糊不清的名称**：一个变量或方法的名称非常不精确，以至于没有传达多少有用的信息（见[14.3小节](<../ch14 Choosing Names/14.3-ming-cheng-ying-dang-zhun-que.md>)）。
 
 **难以取名**：很难为一个实体想出一个精确而直观的名字（见[14.3小节](<../ch14 Choosing Names/14.3-ming-cheng-ying-dang-zhun-que.md>)）。
 
