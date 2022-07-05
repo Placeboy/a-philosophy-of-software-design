@@ -10,6 +10,6 @@
 
 ### 中文译者
 
-苏格 dortmund\_reus@163.com
+苏格 psychogoopher@gmail.com
 
 ![](../.gitbook/assets/IMG\_0648.JPG)
