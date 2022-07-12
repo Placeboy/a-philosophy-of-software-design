@@ -4,4 +4,4 @@
 
 在线阅读：[https://placeboy.gitbook.io/a-philosophy-of-software-design/](https://placeboy.gitbook.io/a-philosophy-of-software-design/)
 
-译者信息：苏格 psychogoopher@gmail.com
+译者信息：苏格 psychoogopher@gmail.com
